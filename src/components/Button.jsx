@@ -8,7 +8,7 @@ const Button = ( {setQuoteRandom,setphotoR} ) => {
         setphotoR(getRamdonFromArr(arrPhotos))
     }
   return (
-    <button className="app_btn" onClick= {handleChangePhrase}>change phrase</button>
+    <button className="app_btn" onClick= {handleChangePhrase}>cambia a tu nueva frase</button>
   )
 }
 

@@ -18,7 +18,7 @@ function App() {
   }
   return (
     <div className="app" style={objtStyle}>
-      <h1 className='app_title'>Fortune cookie</h1>
+      <h1 className='app_title'>HOLA!!! soy sofi a continuacion podras encontrar frases que mejor me describen... DISFRUTA </h1>
       <div className='app_card'>
         <Phrase quoteRandom = {quoteRandom} />
         <Button 
